@@ -6,6 +6,21 @@
 ###### 이 파일에서는 얻어갈 것이 아무것도 없습니다.
 ###### 지금으로써는 아무것도 한 것이 없기도 하니 내용이 별로 적어도 이해해 주시기 바랍니다.
 ---
+<h2>🔨 Tech Stack</h2>
+  <h3>Language</h3>
+  <h3> Server </h3>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=javascript&logoColor=black">  
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+  <br>
+  <h3> Web </h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+---
 # 2023년 하반기 달력
 ###### 일일이 수정하기 힘들어서 여름방학 동안인 8월달까지 업데이트 해둡니다.
 ###### 달력 소스의 저작권은 https://olait.tistory.com/22 에게 있습니다.
