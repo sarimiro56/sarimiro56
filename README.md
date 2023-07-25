@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeefff&height=250&section=header&text=sarimiro56&fontSize=60&fontColor=b7b8cc&fontAlign=80&animation=fadeIn)
 
 ---
+[![youtubemoviepv](https://img.youtube.com/watch?v=O60nuvPmP4Y/0.jpg)](https://www.youtube.com/watch?v=O60nuvPmP4Y)
+---
 ### welcome! ヾ(⌐■_■)ノ♪
 ###### 지극히 평범한 학생이 여유를 갖고 만든 ReadMe 파일을 이용한 프로필입니다.
 ###### 이 파일에서는 얻어갈 것이 아무것도 없습니다.
