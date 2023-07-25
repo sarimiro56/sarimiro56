@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeefff&height=250&section=header&text=sarimiro56&fontSize=60&fontColor=b7b8cc&fontAlign=80&animation=fadeIn)
 
 ---
-[![cytus_II](https://img.youtube.com/vi/O60nuvPmP4Y/0.jpg)](https://www.youtube.com/watch?v=O60nuvPmP4Y)
+[![cytus_II](https://img.youtube.com/vi/O60nuvPmP4Y/1.jpg)](https://www.youtube.com/watch?v=O60nuvPmP4Y)
 
 ---
 ### welcome! ヾ(⌐■_■)ノ♪
