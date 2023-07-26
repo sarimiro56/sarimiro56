@@ -53,7 +53,7 @@
 |            |            |            |            |            |            |            |
 ---
 ![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
-![sarimiro56's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimiro56&show_icons=true&theme=synthwave)
+![sarimiro56's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimiro56&show_icons=true&theme=gruvbox)
 [![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sarimiro56&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
