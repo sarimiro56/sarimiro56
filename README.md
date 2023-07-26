@@ -1,14 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeefff&height=250&section=header&text=sarimiro56&fontSize=60&fontColor=b7b8cc&fontAlign=80&animation=fadeIn)
-
----
-
-https://github.com/sarimiro56/sarimiro56/assets/128454837/841df1cd-51d6-4245-ab4e-ca9a8d235361
-
 ---
 ### welcome! ヾ(⌐■_■)ノ♪
 ###### 지극히 평범한 학생이 여유를 갖고 만든 ReadMe 파일을 이용한 프로필입니다.
 ###### 이 파일에서는 얻어갈 것이 아무것도 없습니다.
 ###### 지금으로써는 아무것도 한 것이 없기도 하니 내용이 별로 적어도 이해해 주시기 바랍니다.
+---
+https://github.com/sarimiro56/sarimiro56/assets/128454837/841df1cd-51d6-4245-ab4e-ca9a8d235361
 ---
 ![apocalypse](https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f)
 
