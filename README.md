@@ -5,10 +5,6 @@
 ###### 계정 주인이 그냥 입맛대로 만든 것 같아요...(′д｀σ)σ
 ###### 지금으로써는 아무것도 한 것이 없기도 하니 내용이 별로 적어도 이해해 주시기 바랍니다.
 ---
-
-https://github.com/sarimiro56/sarimiro56/assets/128454837/841df1cd-51d6-4245-ab4e-ca9a8d235361
-
----
 ![apocalypse](https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f)
 
 ---
