@@ -5,7 +5,11 @@
 ###### 계정 주인이 그냥 입맛대로 만든 것 같아요...(′д｀σ)σ
 ###### 지금으로써는 아무것도 한 것이 없기도 하니 내용이 별로 적어도 이해해 주시기 바랍니다.
 ---
-![apocalypse](https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f)
+![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
+![sarimiro56's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimiro56&show_icons=true&theme=tokyonight)
+[![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarimiro56&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![tree](https://github.com/sarimiro56/sarimiro56/assets/128454837/1a8edf97-06ac-4fc9-a95c-c932a4faaa4d)
 
 ---
 <h1>현재 배우고 있는 언어</h1>
@@ -14,14 +18,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+---
+
+https://github.com/sarimiro56/sarimiro56/assets/128454837/841df1cd-51d6-4245-ab4e-ca9a8d235361
 
 ---
-![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
-![sarimiro56's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimiro56&show_icons=true&theme=tokyonight)
-[![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarimiro56&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![apocalypse](https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f)
 
+---
 ![tree](https://github.com/sarimiro56/sarimiro56/assets/128454837/1a8edf97-06ac-4fc9-a95c-c932a4faaa4d)
+
+
+
 
 <!--
 **sarimiro56/sarimiro56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
