@@ -16,11 +16,7 @@
   <table>
     <tr>
         <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f" /></td>
-        <td><video muted autoplay loop>
-              <source src="https://github.com/sarimiro56/sarimiro56/assets/128454837/841df1cd-51d6-4245-ab4e-ca9a8d235361" type="video/mp4">
-              <strong>Your browser does not support the video tag.</strong>
-            </video>
-        </td>
+        <td>[![Video Label](https://img.youtube.com/vi/VeXLBkG528E/0.jpg)](https://www.youtube.com/watch?v=VeXLBkG528E)</td>
     </tr>
   </table>
 </center>
