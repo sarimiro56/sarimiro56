@@ -15,8 +15,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
 
+<center>
+  <table>
+    <tr>
+        <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f" /></td>
+        <td>https://github.com/sarimiro56/sarimiro56/assets/128454837/841df1cd-51d6-4245-ab4e-ca9a8d235361</td>
+    </tr>
+  </table>
+</center>
 
-https://github.com/sarimiro56/sarimiro56/assets/128454837/841df1cd-51d6-4245-ab4e-ca9a8d235361
+
 
 ---
 ![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
