@@ -5,9 +5,6 @@
 ###### 계정 주인이 그냥 입맛대로 만든 것 같아요...(′д｀σ)σ
 ###### 지금으로써는 아무것도 한 것이 없기도 하니 내용이 별로 적어도 이해해 주시기 바랍니다.
 ---
-![apocalypse](https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f)
-
----
 <h1>현재 배우고 있는 언어</h1>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=javascript&logoColor=black">  
