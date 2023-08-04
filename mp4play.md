@@ -28,3 +28,5 @@ gif 파일로 변환하자니 mb 최대 수용 용량이 10mb???????
 
 어어어ㅣ됐다아 아 이걸 이렇게 아 아!!1
 와아아ㅏ아ㅏ아아아아아아ㅏ 이제 막올릴거야 아아아ㅏㄱㄱ
+
+<iframe width="1044" height="587" src="https://www.youtube.com/embed/eUQFtpxet1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
