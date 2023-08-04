@@ -17,7 +17,11 @@
   <table>
     <tr>
         <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f" /></td>
-        <td>[![Video Label](https://img.youtube.com/vi/VeXLBkG528E/0.jpg)](https://www.youtube.com/watch?v=VeXLBkG528E)</td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=KbGPM9jFeGg" target="_blank">
+            <img width="300px" src="https://img.youtube.com/vi/KbGPM9jFeGg/maxresdefault.jpg" alt="YouTube Thumbnail">
+          </a>
+        </td>
     </tr>
   </table>
 </center>
