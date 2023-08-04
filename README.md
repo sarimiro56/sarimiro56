@@ -19,7 +19,7 @@
     </tr>
   </table>
 </center>
----
+<hr>
 <h2>Test</h2>
 <center>
   <table>
