@@ -22,7 +22,7 @@
             <img width="300px" src="https://img.youtube.com/vi/KbGPM9jFeGg/maxresdefault.jpg" alt="YouTube Thumbnail">
           </a>
         </td>
-        <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/3d94d990-cdb1-4e95-a91b-ea2108d61991" /></td>
+        <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/9f38fd6c-03f4-4d81-9cd8-18b8f2fb06fc" /></td>
     </tr>
   </table>
 </center>
