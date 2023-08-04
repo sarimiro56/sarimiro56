@@ -19,9 +19,7 @@
     <tr>
         <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f" /></td>
         <td>
-          <a href="https://www.youtube.com/watch?v=KbGPM9jFeGg" target="_blank">
-            <img width="300px" src="https://img.youtube.com/vi/KbGPM9jFeGg/maxresdefault.jpg" alt="YouTube Thumbnail">
-          </a>
+          :0
         </td>
         <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/9f38fd6c-03f4-4d81-9cd8-18b8f2fb06fc" /></td>
     </tr>
