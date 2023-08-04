@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeefff&height=250&section=header&text=sarimiro56&fontSize=60&fontColor=b7b8cc&fontAlign=80&animation=fadeIn)
 ---
-### welcome! ヾ(⌐■_■)ノ♪
+## welcome! ヾ(⌐■_■)ノ♪
 ##### 지극히 평범한 학생이 여유를 갖고 만든 ReadMe 파일을 이용한 프로필입니다.
 ##### 계정 주인이 그냥 입맛대로 만든 것 같아요...(′д｀σ)σ
 ##### 지금으로써는 아무것도 한 것이 없기도 하니 내용이 별로 적어도 이해해 주시기 바랍니다.
