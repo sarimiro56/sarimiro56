@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=eeefff&height=250&section=header&text=sarimiro56&fontSize=60&fontColor=b7b8cc&fontAlign=80&animation=fadeIn)
+<center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=eeefff&height=250&section=header&text=sarimiro56&fontSize=60&fontColor=b7b8cc&fontAlign=80&animation=fadeIn)
+
+</center>
 
 ---
 ## welcome! ヾ(⌐■_■)ノ♪
@@ -40,11 +44,16 @@
 
 
 ---
-![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
-![sarimiro56's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimiro56&show_icons=true&theme=tokyonight)
-[![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarimiro56&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-![tree](https://github.com/sarimiro56/sarimiro56/assets/128454837/1a8edf97-06ac-4fc9-a95c-c932a4faaa4d)
+<center>
+
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
+  ![sarimiro56's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimiro56&show_icons=true&theme=tokyonight)
+  [![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sarimiro56&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  ![tree](https://github.com/sarimiro56/sarimiro56/assets/128454837/1a8edf97-06ac-4fc9-a95c-c932a4faaa4d)
+  
+</center>
+
 
 
 
