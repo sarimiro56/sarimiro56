@@ -22,6 +22,7 @@
             <img width="300px" src="https://img.youtube.com/vi/KbGPM9jFeGg/maxresdefault.jpg" alt="YouTube Thumbnail">
           </a>
         </td>
+        <td></td>
     </tr>
   </table>
 </center>
