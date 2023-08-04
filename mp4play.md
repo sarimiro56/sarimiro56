@@ -14,6 +14,9 @@ https://github.com/sarimiro56/sarimiro56/assets/128454837/1998dcfc-4547-42ed-9c8
   https://github.com/sarimiro56/sarimiro56/assets/128454837/850ce798-e626-41bb-b71b-5f65bb37ead5
   
   </td>
+    <td>
+      안녕
+    </td>
   </tr>
 </table>
 
