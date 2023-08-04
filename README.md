@@ -1,3 +1,9 @@
+<style>
+  h1 {
+    color: red;
+  }
+</style>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeefff&height=250&section=header&text=sarimiro56&fontSize=60&fontColor=b7b8cc&fontAlign=80&animation=fadeIn)
 ---
 ## welcome! ヾ(⌐■_■)ノ♪
