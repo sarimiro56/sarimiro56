@@ -10,17 +10,14 @@
 ##### - 이 프로젝트에 마크다운 파일이 여러 개 있어도 놀라지 마세요. 그냥 낙서장이에요. ༼ つ ◕_◕ ༽つ💬
 ---
 <h1>현재 배우고 있는 언어</h1>
-<center>
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=javascript&logoColor=black">  </td>
-      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> </td>
-    </tr>
-  </table>
-</center>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+</p>
+
 
 ![pngwing com](https://github.com/sarimiro56/sarimiro56/assets/128454837/fb102b97-5782-487f-b2ac-c6cec1942014)
 
