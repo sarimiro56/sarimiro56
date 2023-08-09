@@ -21,7 +21,7 @@
 
 ![pngwing com](https://github.com/sarimiro56/sarimiro56/assets/128454837/fb102b97-5782-487f-b2ac-c6cec1942014)
 
-<h2>Test: 작업할 때 들을 음악, 괜찮은 배경 배치해두기</h2>
+<h2>Listen to music while you work.</h2>
 <center>
   <table>
     <tr>
