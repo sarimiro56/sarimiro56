@@ -28,7 +28,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/025547ea-9162-4c42-81e3-f2da86417b14"></img></td>
+        <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f" /></td>
         <td>
           
   https://github.com/sarimiro56/sarimiro56/assets/128454837/850ce798-e626-41bb-b71b-5f65bb37ead5
@@ -39,7 +39,7 @@
   </table>
 </center>
 
-<img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f" /> 
+ <img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/025547ea-9162-4c42-81e3-f2da86417b14" />
 
 ¯\_(ツ)_/¯
 ---
