@@ -41,7 +41,7 @@
 
  <img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/025547ea-9162-4c42-81e3-f2da86417b14" />
 
-¯\_(ツ)_/¯
+you want Dance cat? ¯\_(ツ)_/¯
 ---
 ![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
 ![sarimiro56's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimiro56&show_icons=true&theme=tokyonight)
