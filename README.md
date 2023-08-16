@@ -34,7 +34,7 @@
         <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f" /></td>
         <td>
           
-  https://github.com/sarimiro56/sarimiro56/assets/128454837/850ce798-e626-41bb-b71b-5f65bb37ead5
+  https://github.com/sarimiro56/sarimiro56/assets/128454837/1998dcfc-4547-42ed-9c8d-56354bb2ae86
         
   </td>
         <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/9f38fd6c-03f4-4d81-9cd8-18b8f2fb06fc" /></td>
