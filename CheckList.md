@@ -9,6 +9,7 @@
 - [x] git bash 실행
 - [x] gitkraken 실행
 - [x] vscord 실행
+- [ ] intelliJ 실행
 - [x] kakaotalk 실행
 - [x] discord 실행
 - [x] github 접속하고 Calendar.md 수정하기
