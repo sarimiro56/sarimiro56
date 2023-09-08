@@ -45,15 +45,23 @@ https://github.com/sarimiro56/sarimiro56/assets/128454837/bdf55434-120b-4ffc-bbb
   </table>
 </center>
 
- <img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/025547ea-9162-4c42-81e3-f2da86417b14" />
+<center>
+  <table>
+    <tr>
+      <td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/025547ea-9162-4c42-81e3-f2da86417b14" /></td>
+      <td>
+        <h3>you want Dance cat? ¯\_(ツ)_/¯🥁</h3>
+
+  - 🌱 I’m currently learning javascript.
+  - 🤔 I’m looking for help with AJAX.
+  - ⚡ Fun fact: "I have donated blood a total of 15 times! And it's still ongoing!"🩸
+      </td>
+    </tr>
+  </table>
+</center>
 
 
-you want Dance cat? ¯\_(ツ)_/¯🥁
----
 
-- 🌱 I’m currently learning javascript.
-- 🤔 I’m looking for help with AJAX.
-- ⚡ Fun fact: "I have donated blood a total of 15 times! And it's still ongoing!"🩸
 
 ---
 ![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
