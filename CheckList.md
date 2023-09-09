@@ -6,10 +6,10 @@
 --------------
 - [x] 오자마자 입실 찍기
 - [x] 프로필 프로젝트 파일 중 하나라도 수정해서 잔디 채우기 (국비하는 동안에라도)
-- [x] git bash 실행
+- [ ] git bash 실행
 - [x] gitkraken 실행
-- [x] vscord 실행
-- [ ] intelliJ 실행
+- [ ] vscord 실행
+- [x] intelliJ 실행
 - [x] kakaotalk 실행
 - [x] discord 실행
 - [x] github 접속하고 Calendar.md 수정하기
