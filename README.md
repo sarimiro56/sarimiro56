@@ -68,7 +68,7 @@ https://github.com/sarimiro56/sarimiro56/assets/128454837/bdf55434-120b-4ffc-bbb
 ---
 ![header](https://capsule-render.vercel.app/api?type=slice&color=eeefff&text=status&animation=twinkling&fontColor=b7b8cc)
 ![sarimiro56's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimiro56&show_icons=true&theme=tokyonight)
-[![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
+[![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&langs_count=8&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sarimiro56&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ![tree](https://github.com/sarimiro56/sarimiro56/assets/128454837/1a8edf97-06ac-4fc9-a95c-c932a4faaa4d)
 
@@ -91,4 +91,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+[![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
 -->
