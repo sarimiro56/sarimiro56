@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=eeefff&height=250&section=header&text=sarimiro56&fontSize=60&fontColor=b7b8cc&fontAlign=80&animation=fadeIn)
 
-[![sarimiro56](https://github.com/sarimiro56.png?size=60)](https://github.com/sarimiro56 "sarimiro56's Github")
+[![sarimiro56](https://github.com/sarimiro56.png?size=45)](https://github.com/sarimiro56 "sarimiro56's Github")
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Myeongjo&pause=1000&color=ACEEF7&width=435&lines=%EC%95%88%EB%85%95%3F;%EC%98%A4%EB%8A%98%EC%9D%80+%EB%AC%B4%EC%97%87%EC%9D%84+%ED%95%98%EB%9F%AC+%EC%99%94%EB%8B%88%3F)](https://git.io/typing-svg)
 ---
 ## welcome! ヾ(⌐■_■)ノ♪
