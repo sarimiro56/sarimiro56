@@ -94,4 +94,5 @@ Here are some ideas to get you started:
 -->
 <!--
 [![sarimiro56's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimiro56&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sarimiro56)
+<td><img width="300px" align="left" src="https://github.com/sarimiro56/sarimiro56/assets/128454837/f0d9ad77-baa8-4932-ae4c-e3cd414ca72f" /></td>
 -->
