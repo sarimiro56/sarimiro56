@@ -18,3 +18,7 @@
 
 
 https://app.sketchup.com/app?hl=ko
+스케치업 작업실
+
+오늘 작업할 것
+![캡처](https://github.com/sarimiro56/sarimiro56/assets/128454837/d25e4e54-e8bf-4b11-9731-0a9cac505874)
