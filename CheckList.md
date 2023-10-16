@@ -15,3 +15,6 @@
 - [x] github 접속하고 Calendar.md 수정하기
 - [x] 오늘 배운 것들 되도록 오류 수정하고 commit 하기
 - [x] 퇴실 꼭 찍기
+
+
+https://app.sketchup.com/app?hl=ko
